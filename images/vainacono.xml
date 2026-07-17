@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vainacono.png">
+	<SubTexture name="eu eu0000" x="0" y="0" width="391" height="37"/>
+	<SubTexture name="eu eu0001" x="0" y="111" width="391" height="37"/>
+	<SubTexture name="eu eu0002" x="0" y="148" width="391" height="37"/>
+	<SubTexture name="eu eu0003" x="0" y="185" width="391" height="37"/>
+	<SubTexture name="eu eu0004" x="0" y="222" width="391" height="37"/>
+	<SubTexture name="eu eu0005" x="0" y="259" width="391" height="37"/>
+	<SubTexture name="eu eu0006" x="0" y="296" width="391" height="37"/>
+	<SubTexture name="eu eu0007" x="0" y="333" width="391" height="37"/>
+	<SubTexture name="eu eu0008" x="0" y="370" width="391" height="37"/>
+	<SubTexture name="eu eu0009" x="0" y="37" width="391" height="37"/>
+	<SubTexture name="eu eu0010" x="0" y="74" width="391" height="37"/>
+</TextureAtlas>

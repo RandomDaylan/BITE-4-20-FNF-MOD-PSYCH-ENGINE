@@ -1,0 +1,263 @@
+{
+	"events": [
+		[
+			17071.4285714286,
+			[
+				["character", "freddy", ""]
+			]
+		],
+		[
+			17142.8571428571,
+			[
+				["characternotesmovement", "show", ""]
+			]
+		],
+		[
+			18285.7142857143,
+			[
+				["Play Animation", "idle-alt", "BF"]
+			]
+		],
+		[
+			19428.5714285714,
+			[
+				["mark", "asustaon", ""]
+			]
+		],
+		[
+			45642.8571428571,
+			[
+				["blackcore", "diavlo", ""]
+			]
+		],
+		[
+			46000,
+			[
+				["lyrics", "i'll be your friend", "1"]
+			]
+		],
+		[
+			47142.8571428571,
+			[
+				["lyrics", "right till the end", "1"]
+			]
+		],
+		[
+			48285.7142857143,
+			[
+				["lyrics", "join the party", "2.5"]
+			]
+		],
+		[
+			50571.4285714286,
+			[
+				["lyrics", "don't be afraid", "1"]
+			]
+		],
+		[
+			51714.2857142857,
+			[
+				["lyrics", "we'll find a way", "1"]
+			]
+		],
+		[
+			52857.1428571429,
+			[
+				["lyrics", "join the party", "2"]
+			]
+		],
+		[
+			53642.8571428572,
+			[
+				["blackcore", "ya", ""]
+			]
+		],
+		[
+			53714.2857142857,
+			[
+				["characternotesmovement", "right", ""]
+			]
+		],
+		[
+			53714.2857142857,
+			[
+				["characternotesmovement", "opponentright", ""]
+			]
+		],
+		[
+			53714.2857142857,
+			[
+				["character", "bonnie", ""]
+			]
+		],
+		[
+			53717.2619047619,
+			[
+				["mark", "right", ""]
+			]
+		],
+		[
+			54785.7142857143,
+			[
+				["character", "freddyshy", ""]
+			]
+		],
+		[
+			91214.2857142858,
+			[
+				["character", "freddy", ""]
+			]
+		],
+		[
+			91428.5714285715,
+			[
+				["characternotesmovement", "leftes", ""]
+			]
+		],
+		[
+			91428.5714285715,
+			[
+				["mark", "left", ""]
+			]
+		],
+		[
+			91714.2857142858,
+			[
+				["lyrics", "what's this", "0.57"]
+			]
+		],
+		[
+			92285.7142857144,
+			[
+				["lyrics", "someone in the main office?", "1.50"]
+			]
+		],
+		[
+			94000.0000000001,
+			[
+				["lyrics", "hanging out", "1"]
+			]
+		],
+		[
+			109714.285714286,
+			[
+				["characternotesmovement", "shownt", ""]
+			]
+		],
+		[
+			109714.285714286,
+			[
+				["character", "itsme", ""]
+			]
+		],
+		[
+			126857.142857143,
+			[
+				["characternotesmovement", "show", ""]
+			]
+		],
+		[
+			126857.142857143,
+			[
+				["anew", "yeah", ""]
+			]
+		],
+		[
+			128000,
+			[
+				["anew", "shy", ""]
+			]
+		],
+		[
+			137142.857142857,
+			[
+				["blackcore", "diavlo", ""]
+			]
+		],
+		[
+			137357.142857143,
+			[
+				["lyrics", "ill be your frined", "1"]
+			]
+		],
+		[
+			138500,
+			[
+				["lyrics", "right till the end", "1"]
+			]
+		],
+		[
+			139642.857142857,
+			[
+				["lyrics", "join the party", "2.5"]
+			]
+		],
+		[
+			141928.571428571,
+			[
+				["lyrics", "dont be afraid", "1"]
+			]
+		],
+		[
+			143071.428571429,
+			[
+				["lyrics", "well find a way", "1"]
+			]
+		],
+		[
+			144214.285714286,
+			[
+				["lyrics", "join the party", "2.5"]
+			]
+		],
+		[
+			146285.714285714,
+			[
+				["blackcore", "ya", ""]
+			]
+		],
+		[
+			146357.142857143,
+			[
+				["characternotesmovement", "opponentleft", ""]
+			]
+		],
+		[
+			146571.428571429,
+			[
+				["character", "foxy", ""]
+			]
+		],
+		[
+			147357.142857143,
+			[
+				["character", "foxy1", ""]
+			]
+		],
+		[
+			147428.571428571,
+			[
+				["character", "foxy2", ""]
+			]
+		],
+		[
+			147500,
+			[
+				["characternotesmovement", "opponentright", ""]
+			]
+		],
+		[
+			181714.285714285,
+			[
+				["character", "foxy3", ""]
+			]
+		],
+		[
+			186571.428571428,
+			[
+				["character", "freddy", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

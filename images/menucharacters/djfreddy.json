@@ -1,0 +1,9 @@
+{
+	"idle_anim": "freddyIDLE  ",
+	"image": "DJfreddy",
+	"position": [0, 0],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.4,
+	"confirm_anim": "freddyDOWN"
+}

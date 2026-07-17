@@ -1,0 +1,65 @@
+{
+	"events": [
+		[
+			17416.6666666667,
+			[
+				["character", "freddy", ""]
+			]
+		],
+		[
+			53666.6666666667,
+			[
+				["character", "bonnie", ""]
+			]
+		],
+		[
+			54666.6666666667,
+			[
+				["character", "freddyshy", ""]
+			]
+		],
+		[
+			91250,
+			[
+				["character", "freddy", ""]
+			]
+		],
+		[
+			106000,
+			[
+				["Change Character", "bonnie", ""]
+			]
+		],
+		[
+			109333.333333333,
+			[
+				["character", "bonnieshy", ""]
+			]
+		],
+		[
+			109500,
+			[
+				["character", "freddyshy", ""]
+			]
+		],
+		[
+			109750,
+			[
+				["Change Character", "gf", "goldenfreddy"]
+			]
+		],
+		[
+			127000,
+			[
+				["character", "freddy", ""]
+			]
+		],
+		[
+			147416.666666667,
+			[
+				["Change Character", "gf", "foxy"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
