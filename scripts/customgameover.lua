@@ -7,9 +7,9 @@ local deaths = {
     [3] = {'death4', 'sound4'}
 }
 function onCreate()
-    setPropertyFromClass('substates.GameOverSubstate', 'deathSoundName', '')
-    setPropertyFromClass('substates.GameOverSubstate', 'loopSoundName', '')
-    setPropertyFromClass('substates.GameOverSubstate', 'endSoundName', '')
+    setPropertyFromClass('substates.GameOverSubstate', 'deathSoundName', 'golden')
+    setPropertyFromClass('substates.GameOverSubstate', 'loopSoundName', 'golden')
+    setPropertyFromClass('substates.GameOverSubstate', 'endSoundName', 'golden')
 end
 function onGameOverStart()
     local data = deaths[deathType]
