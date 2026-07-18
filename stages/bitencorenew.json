@@ -4,24 +4,24 @@
 		0
 	],
 	"_editorMeta": {
-		"boyfriend": "mark",
-		"dad": "freddy",
-		"gf": "foxy"
+		"boyfriend": "EVIL-BOCCHI",
+		"gf": "foxy",
+		"dad": "freddy"
 	},
+	"girlfriend": [
+		-235,
+		-30
+	],
 	"stageUI": "normal",
 	"boyfriend": [
 		-110,
 		-80
 	],
-	"girlfriend": [
-		-235,
-		-30
-	],
 	"defaultZoom": 0.9,
 	"objects": [
 		{
 			"x": 0,
-			"y": 0,
+			"y": -1000,
 			"scale": [
 				1,
 				1
@@ -38,12 +38,12 @@
 				1,
 				1
 			],
-			"alpha": 0,
+			"alpha": 1,
 			"type": "sprite"
 		},
 		{
 			"x": 0,
-			"y": 0,
+			"y": -1000,
 			"scale": [
 				1,
 				1
@@ -60,7 +60,7 @@
 				1,
 				1
 			],
-			"alpha": 0,
+			"alpha": 1,
 			"type": "sprite"
 		},
 		{
@@ -108,12 +108,12 @@
 			"alpha": 1,
 			"animations": [
 				{
-					"offsets": null,
-					"indices": [],
-					"fps": 24,
-					"anim": "jumpscare",
 					"loop": true,
-					"name": "foxyJUMPSCARE"
+					"offsets": null,
+					"anim": "jumpscare",
+					"fps": 24,
+					"name": "foxyJUMPSCARE",
+					"indices": []
 				}
 			],
 			"type": "animatedSprite"
@@ -147,8 +147,8 @@
 			"type": "sprite"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 22,
+			"y": 463,
 			"scale": [
 				1,
 				1
@@ -165,12 +165,12 @@
 				1,
 				1
 			],
-			"alpha": 0,
+			"alpha": 1,
 			"type": "sprite"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 9,
+			"y": 347,
 			"scale": [
 				1,
 				1
@@ -187,12 +187,12 @@
 				1,
 				1
 			],
-			"alpha": 0,
+			"alpha": 1,
 			"type": "sprite"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 1316,
+			"y": 347,
 			"scale": [
 				1,
 				1
@@ -209,12 +209,12 @@
 				1,
 				1
 			],
-			"alpha": 0,
+			"alpha": 1,
 			"type": "sprite"
 		},
 		{
-			"x": 0,
-			"y": 0,
+			"x": 1320,
+			"y": 463,
 			"scale": [
 				1,
 				1
@@ -231,7 +231,7 @@
 				1,
 				1
 			],
-			"alpha": 0,
+			"alpha": 1,
 			"type": "sprite"
 		},
 		{
@@ -376,15 +376,15 @@
 		0,
 		0
 	],
-	"camera_speed": 1,
-	"directory": "",
 	"opponent": [
 		780,
 		120
 	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
 	"camera_opponent": [
 		0,
 		0
-	],
-	"hide_girlfriend": false
+	]
 }

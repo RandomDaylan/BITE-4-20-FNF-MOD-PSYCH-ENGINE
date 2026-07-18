@@ -2,6 +2,10 @@ function onCreate()
 
     makeLuaSprite('black', 'black', 0, 0);
     setProperty('black.alpha', 0);
+    setProperty('buttondoorleft.alpha', 0);
+    setProperty('buttondoorright.alpha', 0);
+    setProperty('buttonlightleft.alpha', 0);
+    setProperty('buttonlightright.alpha', 0);
     addLuaSprite('black', true);
 
     makeLuaSprite('overlay', 'overlay', -235, 0);
